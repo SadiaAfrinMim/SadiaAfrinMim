@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sadia Afrin Mim
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://ibb.co.com/jZHvV7p)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/zHNh8Kk/DALL-E-2024-11-14-03-22-03-A-young-woman-with-a-thoughtful-expression-seated-at-a-desk-surrounded-by.webp)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
