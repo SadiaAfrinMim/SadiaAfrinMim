@@ -92,13 +92,20 @@ class Developer {
 - ⚡ Fun fact: I debug with console.log and coffee ☕
 
 ## 📊 Weekly Development Breakdown
-```text
-React.js     █████████████░░░░░   65%
-JavaScript   ████████░░░░░░░░░░   40%
-HTML/CSS     ██████░░░░░░░░░░░░   30%
-Firebase     ████░░░░░░░░░░░░░░   20%
+
+```
+★★★★★★★★★☆☆  Next.js       [75%]
+★★★★★★★★☆☆☆  React.js      [65%]
+★★★★★★★☆☆☆☆  TypeScript    [60%]
+★★★★★★☆☆☆☆☆  MongoDB       [50%]
+★★★★★☆☆☆☆☆☆  Express.js    [40%]
+★★★★☆☆☆☆☆☆☆  JavaScript    [35%]
 ```
 
+### 🚀 Tech Trajectory
+- **Bright Stars**: Next.js, React.js
+- **Emerging Constellations**: TypeScript, MongoDB
+- **Distant Galaxies**: Express.js, Full-Stack Integration
 <div align="center">
   
 ### Show some ❤️ by starring some repositories!
