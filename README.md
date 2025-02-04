@@ -109,7 +109,9 @@
 
 
   
-### Show some ❤️ by starring some repositories!
+<div align="center">
+  ### Show some ❤️ by starring some repositories!
+</div>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
