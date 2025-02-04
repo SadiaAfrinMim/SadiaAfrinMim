@@ -1,4 +1,4 @@
-### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+👋 Hi, I'm Sadia Afrin Mim
 ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 <div align="center">
