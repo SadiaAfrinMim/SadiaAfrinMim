@@ -1,32 +1,130 @@
-### Hi, I'm Sadia Afrin Mim 👋
-![](https://i.ibb.co.com/zHNh8Kk/DALL-E-2024-11-14-03-22-03-A-young-woman-with-a-thoughtful-expression-seated-at-a-desk-surrounded-by.webp)
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadia%20Afrin%20Mim&fontSize=50&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7AA7D&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Learning+and+Growing)](https://git.io/typing-svg)
 
+</div>
 
+## 👩‍💻 About Me
+```typescript
+class Developer {
+  name: string = "Sadia Afrin Mim";
+  title: string = "Frontend Developer";
+  location: string = "Bangladesh";
+  
+  skills: {
+    languages: string[] = ["JavaScript", "HTML5", "CSS3"];
+    frameworks: string[] = ["React.js", "TailwindCSS"];
+    backend: string[] = ["Firebase"];
+    currentlyLearning: string[] = ["Next.js", "TypeScript"];
+  }
+}
+```
 
-##🚀About Me
-Hi there! 👋 I'm Sadia Afrin Mim, a passionate web developer with expertise in React.js, JavaScript, CSS (including Tailwind CSS), and Firebase. I enjoy creating dynamic, user-friendly web applications and exploring new technologies that enhance performance and user experience. I'm always looking to learn, grow, and collaborate with others on exciting projects. 🚀
+## 🛠️ Tech Stack
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  </a>
+  <br>HTML
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  </a>
+  <br>CSS
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  </a>
+  <br>JavaScript
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <br>React
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+  </a>
+  <br>Tailwind
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  </a>
+  <br>Firebase
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </a>
+  <br>Git
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+  </a>
+  <br>VSCode
+</td>
+</tr>
+</table>
+</div>
 
-Skills: ## 👨‍💻 Skills & Experience
- - 👨‍💻 HTML & CSS  
- - 🎨 Tailwind CSS  
-- ⚛️ React.js  
- - 📜 JavaScript  
- - 🔥 Firebase  
+## 📈 GitHub Analytics
+<p align="center">
+<a href="https://github.com/SadiaAfrinMim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadiaAfrinMim&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaAfrinMim&layout=compact&theme=radical"/>
+</a>
+</p>
 
-- 👯 I’m looking to collaborate on I’m open to collaborating on projects related to web development, especially those involving React.js, CSS, or Firebase. 
-- 🤔 I’m looking for help with I would appreciate guidance on optimizing web application performance, particularly with managing large datasets or implementing real-time features in React and Firebase. Also, advice on advanced strategies for traffic generation through social media would be helpful. 
-- 💬 Ask me about Feel free to ask me about web development, React.js, CSS frameworks, Firebase integration. 
-- 📫 How to reach me: You can reach me via email at [sadiaafrinmim660@gmail.com] or through my LinkedIn profile at [https://www.linkedin.com/in/sadia-afrin-mim-5198121b0/]. 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaAfrinMim&theme=radical" alt="SadiaAfrinMim" />
+</p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SadiaAfrinMim&theme=radical&row=1&column=6" />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadiaAfrinMim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sadia-afrin-mim-5198121b0//)  
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadia-afrin-mim-5198121b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sadiaafrinmim660@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 📌 Interests
+- 🔭 Currently working on: React.js projects
+- 🌱 Learning: Advanced React patterns and Firebase
+- 👯 Looking to collaborate on: Web development projects
+- 💬 Ask me about: Frontend development, React.js
+- ⚡ Fun fact: I debug with console.log and coffee ☕
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SadiaAfrinMim)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 Weekly Development Breakdown
+```text
+React.js     █████████████░░░░░   65%
+JavaScript   ████████░░░░░░░░░░   40%
+HTML/CSS     ██████░░░░░░░░░░░░   30%
+Firebase     ████░░░░░░░░░░░░░░   20%
+```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SadiaAfrinMim&show_icons=true&count_private=true)  
+<div align="center">
+  
+### Show some ❤️ by starring some repositories!
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SadiaAfrinMim)  
-
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
