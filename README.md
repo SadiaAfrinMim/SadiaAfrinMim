@@ -1,9 +1,10 @@
+# 👋 Hi, I'm Sadia Afrin Mim
+
+![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 
 <div align="center">
-#👋 Hi, I'm Sadia Afrin Mim
 
-![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sadia%20Afrin%20Mim&fontSize=60&animation=fadeIn&fontAlignY=35)
 
