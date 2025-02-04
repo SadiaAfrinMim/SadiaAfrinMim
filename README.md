@@ -12,7 +12,7 @@
 
 
 ## 👩‍💻 About Me
-### <span style="font-weight: bold; font-size: 2em; color: #FF69B4; animation: bounce 2s infinite;">Sadia Afrin Mim</span>
+
 
 [![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)  
 [![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)  
