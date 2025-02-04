@@ -12,11 +12,21 @@
 
 
 ## 👩‍💻 About Me
-[![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)
-[![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)
-[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
+### <span style="font-weight: bold; font-size: 2em; color: #FF69B4; animation: bounce 2s infinite;">Sadia Afrin Mim</span>
+
+[![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)  
+[![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)  
+[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)  
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
+
+<style>
+  @keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0); }
+  }
+</style>
 
 ## 🛠️ Tech Stack
 <div align="center">
