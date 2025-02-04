@@ -3,8 +3,10 @@
 
 <div align="center">
   <!-- Header with gradient effect -->
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Enthusiast;Full+Stack+Web+Developer+in+Training;Passionate+about+Learning+and+Growing" alt="Typing Animation">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Enthusiast;Full+Stack+Web+Developer+in+Training;🔥 Passionate about Learning & Growing;🎨 <b>CSS Student</b>" alt="Typing Animation">
+</a>
+
   
 
   <!-- Profile picture overlapping the header using negative margin -->
