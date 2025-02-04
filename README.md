@@ -2,14 +2,13 @@
 
 
 <div align="center">
-
   <!-- Header with gradient effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sadia%20Afrin%20Mim&fontSize=60&animation=fadeIn&fontAlignY=35" alt="Header">
-<img src="https://i.ibb.co.com/qFgPLgjL/DALL-E-2025-02-05-01-06-29-A-professional-and-eye-catching-cover-photo-featuring-a-young-female-web.webp" 
-       alt="Sadia Afrin Mim" 
-       style="border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
-  <br>
 
+  <!-- Profile picture overlapping the header using negative margin -->
+  <img src="https://i.ibb.co/qFgPLgjL/DALL-E-2025-02-05-01-06-29-A-professional-and-eye-catching-cover-photo-featuring-a-young-female-web.webp" 
+       alt="Sadia Afrin Mim" 
+       style="margin-top: -100px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
 </div>
 
 
