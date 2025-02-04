@@ -92,12 +92,12 @@ class Developer {
 - ⚡ Fun fact: I debug with console.log and coffee ☕
 
 ## 📊 Weekly Development Breakdown
-![Next.js](https://img.shields.io/badge/Next.js-75%25-blue?style=flat)
-![React.js](https://img.shields.io/badge/React.js-65%25-blue?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-60%25-blue?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-50%25-blue?style=flat)
-![Express.js](https://img.shields.io/badge/Express.js-40%25-blue?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-35%25-blue?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-75%25-000000?style=for-the-badge&logo=next.js)
+![React.js](https://img.shields.io/badge/React.js-65%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-50%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-40%25-808080?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
   
