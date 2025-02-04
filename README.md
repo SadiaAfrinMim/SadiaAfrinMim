@@ -20,13 +20,7 @@
 [![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)  
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
 
-<style>
-  @keyframes bounce {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-    100% { transform: translateY(0); }
-  }
-</style>
+
 
 ## 🛠️ Tech Stack
 <div align="center">
