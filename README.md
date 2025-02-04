@@ -14,7 +14,7 @@
   <!-- Profile picture with styling -->
   <img src="https://i.ibb.co.com/qFgPLgjL/DALL-E-2025-02-05-01-06-29-A-professional-and-eye-catching-cover-photo-featuring-a-young-female-web.webp" 
        alt="Sadia Afrin Mim" 
-       width="250" 
+       
        height="250" 
        style="border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 4px 6px rgba(138,43,226,0.3);">
        
