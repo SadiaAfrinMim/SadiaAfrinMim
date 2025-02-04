@@ -19,6 +19,7 @@
 
 
 ## 👩‍💻 About Me
+<img src="https://github.com/sciencepal/sciencepal/blob/master/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 # 👋 Hi, I'm Sadia Afrin Mim  ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 
