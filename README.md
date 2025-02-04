@@ -92,12 +92,13 @@ class Developer {
 - ⚡ Fun fact: I debug with console.log and coffee ☕
 
 ## 📊 Weekly Development Breakdown
-<p>🚀 Next.js: <progress value="75" max="100"></progress> 75%</p>
-<p>⚡ React.js: <progress value="65" max="100"></progress> 65%</p>
-<p>💡 TypeScript: <progress value="60" max="100"></progress> 60%</p>
-<p>🌐 MongoDB: <progress value="50" max="100"></progress> 50%</p>
-<p>💻 Express.js: <progress value="40" max="100"></progress> 40%</p>
-<p>🔧 JavaScript: <progress value="35" max="100"></progress> 35%</p>
+![Next.js](https://img.shields.io/badge/Next.js-75%25-blue?style=flat)
+![React.js](https://img.shields.io/badge/React.js-65%25-blue?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-60%25-blue?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-50%25-blue?style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-40%25-blue?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-35%25-blue?style=flat)
+
 
   
 ### Show some ❤️ by starring some repositories!
