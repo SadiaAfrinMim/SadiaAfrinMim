@@ -1,4 +1,7 @@
 <div align="center">
+### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sadia%20Afrin%20Mim&fontSize=60&animation=fadeIn&fontAlignY=35)
 
