@@ -12,18 +12,11 @@
 
 
 ## 👩‍💻 About Me
-class Developer {
-  name: string = "Sadia Afrin Mim";
-  title: string = "Frontend Developer";
-  location: string = "Bangladesh";
-  
-  skills: {
-    languages: string[] = ["JavaScript", "HTML5", "CSS3"];
-    frameworks: string[] = ["React.js", "TailwindCSS"];
-    backend: string[] = ["Firebase"];
-    currentlyLearning: string[] = ["Next.js", "TypeScript"];
-  }
-}
+[![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)
+[![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)
+[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
+[![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
 
 ## 🛠️ Tech Stack
 <div align="center">
