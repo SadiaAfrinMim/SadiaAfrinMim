@@ -7,56 +7,18 @@
 </div>
 
 ## 👩‍💻 About Me
-```typescript
-/* 🌟 Developer Profile */
-interface ISkillSet {
-  languages: string[];
-  frameworks: string[];
-  backend: string[];
-  currentlyLearning: string[];
-}
-
 class Developer {
-  private readonly name: string = "Sadia Afrin Mim";
-  private readonly title: string = "Frontend Developer";
-  private readonly location: string = "Bangladesh";
+  name: string = "Sadia Afrin Mim";
+  title: string = "Frontend Developer";
+  location: string = "Bangladesh";
   
-  public readonly skills: ISkillSet = {
-    languages: [
-      "✨ JavaScript",
-      "🌐 HTML5",
-      "🎨 CSS3"
-    ],
-    frameworks: [
-      "⚛️ React.js",
-      "🎭 TailwindCSS"
-    ],
-    backend: [
-      "🔥 Firebase"
-    ],
-    currentlyLearning: [
-      "📱 Next.js",
-      "💻 TypeScript"
-    ]
-  };
-
-  public getDetails(): string {
-    return `
-      👩‍💻 ${this.name}
-      🚀 ${this.title}
-      📍 ${this.location}
-    `;
-  }
-
-  public getCurrentProject(): string {
-    return "Building amazing web experiences";
+  skills: {
+    languages: string[] = ["JavaScript", "HTML5", "CSS3"];
+    frameworks: string[] = ["React.js", "TailwindCSS"];
+    backend: string[] = ["Firebase"];
+    currentlyLearning: string[] = ["Next.js", "TypeScript"];
   }
 }
-
-// Initialize Developer Instance
-const sadia = new Developer();
-console.log("Welcome to my profile! 👋");
-```
 
 ## 🛠️ Tech Stack
 <div align="center">
