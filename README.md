@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
    <a href="https://sadia-afrin-mim.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Sadia%20Afrin%20Mim-blue?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
 </p>
