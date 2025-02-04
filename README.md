@@ -92,8 +92,12 @@ class Developer {
 - ⚡ Fun fact: I debug with console.log and coffee ☕
 
 ## 📊 Weekly Development Breakdown
-<p align="center"> 🚀 Next.js: <progress value="75" max="100"></progress> 75%<br> ⚡ React.js: <progress value="65" max="100"></progress> 65%<br> 💡 TypeScript: <progress value="60" max="100"></progress> 60%<br> 🌐 MongoDB: <progress value="50" max="100"></progress> 50%<br> 💻 Express.js: <progress value="40" max="100"></progress> 40%<br> 🔧 JavaScript: <progress value="35" max="100"></progress> 35% </p> <div align="center">
-<div align="center">
+🚀 Next.js:      [75%] █████████████████████
+⚡ React.js:     [65%] ████████████████░░░░
+💡 TypeScript:   [60%] ███████████████░░░░
+🌐 MongoDB:      [50%] ██████████░░░░░░░░
+💻 Express.js:   [40%] ████████░░░░░░░░░░
+🔧 JavaScript:   [35%] ███████░░░░░░░░░░░
   
 ### Show some ❤️ by starring some repositories!
 
