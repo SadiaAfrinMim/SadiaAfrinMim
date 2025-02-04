@@ -21,7 +21,7 @@
 ## 👩‍💻 About Me
 
 # 👋 Hi, I'm Sadia Afrin Mim  ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
-<img src="https://github.com/sadiaafrinmim/blob/master/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 
 [![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)  
