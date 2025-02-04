@@ -29,56 +29,40 @@ class Developer {
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96">
-  <a href="#">
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-  </a>
-  <br>HTML
-</td>
-<td align="center" width="96">
-  <a href="#">
+    <br>HTML
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-  </a>
-  <br>CSS
-</td>
-<td align="center" width="96">
-  <a href="#">
+    <br>CSS
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  </a>
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <a href="#">
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  </a>
-  <br>React
-</td>
+    <br>React
+  </td>
 </tr>
 <tr>
-<td align="center" width="96">
-  <a href="#">
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  </a>
-  <br>Tailwind
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-  </a>
-  <br>Firebase
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  </a>
-  <br>Git
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-  </a>
-  <br>VSCode
-</td>
+    <br>Tailwind
+  </td>
 </tr>
 </table>
 </div>
