@@ -2,12 +2,15 @@
 
 
 <div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sadia%20Afrin%20Mim&fontSize=60&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Enthusiast;Full+Stack+Web+Developer+in+Training;Passionate+about+Learning+and+Growing)](https://git.io/typing-svg)
 
 <img src="https://i.ibb.co/0p1mkDZt/photo-6242537220602971162-x.jpg" alt="Sadia Afrin Mim" width="250" height="250" style="border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 4px 6px rgba(138,43,226,0.3);">
+
 </div>
+
 
 
 </div>
