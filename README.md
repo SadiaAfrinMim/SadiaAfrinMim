@@ -84,7 +84,19 @@
 </div>
 
 ## 📈 GitHub Analytics
-<p align="center"> <a href="https://github.com/SadiaAfrinMim"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadiaAfrinMim&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaAfrinMim&layout=compact&theme=radical"/> </a> </p><p align="center"><a href="https://github.com/SadiaAfrinMim">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaAfrinMim&theme=radical" alt="SadiaAfrinMim" /></p>
+<p align="center">
+  <a href="https://github.com/SadiaAfrinMim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadiaAfrinMim&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaAfrinMim&layout=compact&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SadiaAfrinMim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaAfrinMim&theme=radical" alt="SadiaAfrinMim"/>
+  </a>
+</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
