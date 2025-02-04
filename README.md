@@ -1,7 +1,4 @@
-import React from 'react';
 
-const EnhancedProfileReadme = () => {
-  return `
 # Hi there! I'm Sadia Afrin Mim 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sadia%20Afrin%20Mim&fontSize=60&animation=fadeIn&fontAlignY=35)
@@ -108,4 +105,4 @@ class Developer {
 `;
 };
 
-export default EnhancedProfileReadme;
+
