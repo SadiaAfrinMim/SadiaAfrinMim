@@ -11,11 +11,10 @@
 
   
 
-  <!-- Profile picture overlapping the header using negative margin -->
-<video>
-    <source src="https://i.ibb.co.com/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" type="video/mp4">
-   
-</video>
+<img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
+     alt="Profile Picture" 
+     style="margin-top: -100px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
+
 
 
 
