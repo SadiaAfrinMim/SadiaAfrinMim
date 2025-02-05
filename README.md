@@ -12,10 +12,11 @@
   
 
   <!-- Profile picture overlapping the header using negative margin -->
-  <img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/Neutral%20Simple%20Minimalist%20Real%20Estate%20Facebook%20Cover.mp4" 
-       alt="Sadia Afrin Mim" 
-       style="margin-top: -100px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
-</div>
+<video width="400" controls style="border-radius: 10px; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
+    <source src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/Neutral%20Simple%20Minimalist%20Real%20Estate%20Facebook%20Cover.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
 
 
