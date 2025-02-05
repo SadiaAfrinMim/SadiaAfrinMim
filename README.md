@@ -12,9 +12,9 @@
   
 
   <!-- Profile picture overlapping the header using negative margin -->
-<video width="400" controls style="border-radius: 10px; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
+<video>
     <source src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/Neutral%20Simple%20Minimalist%20Real%20Estate%20Facebook%20Cover.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+   
 </video>
 
 
