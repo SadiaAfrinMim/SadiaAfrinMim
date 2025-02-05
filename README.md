@@ -7,13 +7,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing;🎨 CSS+Student" 
          alt="Typing Animation">
   </a>
+  </div>
   
 
   <!-- Profile picture overlapping the header using negative margin -->
   <img src="https://i.ibb.co.com/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
        alt="Sadia Afrin Mim" 
        style="margin-top: -100px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
-</div>
+
 
 
 
