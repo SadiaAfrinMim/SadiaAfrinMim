@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Header with gradient effect -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer+in+Training;🔥 Passionate+about+Learning+and+Growing;🎨 CSS+Student" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing;🎨 CSS+Student" alt="Typing Animation">
 </a>
 
 
@@ -12,7 +12,7 @@
   
 
   <!-- Profile picture overlapping the header using negative margin -->
-  <img src="https://i.ibb.co/qFgPLgjL/DALL-E-2025-02-05-01-06-29-A-professional-and-eye-catching-cover-photo-featuring-a-young-female-web.webp" 
+  <img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/Neutral%20Simple%20Minimalist%20Real%20Estate%20Facebook%20Cover.mp4" 
        alt="Sadia Afrin Mim" 
        style="margin-top: -100px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
 </div>
