@@ -28,7 +28,7 @@
 ## 👩‍💻 About Me
 
 # 👋 Hi, I'm Sadia Afrin Mim  ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
- A passionate [![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)  Enthusiast from [![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh) . 🚀
+ A passionate passionate Frontend Developer and React.js  Enthusiast from [![](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh) . 🚀
 I love building dynamic and user-friendly web applications, constantly learning new technologies, and contributing to open-source projects.
 Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
 <img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
