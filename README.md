@@ -38,6 +38,12 @@ I enjoy building dynamic and user-friendly web applications, always learning new
 [![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
 
+## 📌 Current Activities:
+🌱 Learning: Advanced Next.js and TypeScript.
+🏗 Building: A tourism website with interactive UI/UX.
+🔥 Exploring: Server-side rendering (SSR) and Static Site Generation (SSG) in Next.js.
+🤝 Collaborating: On full-stack projects with MongoDB, Express, React, and Node.js (MERN Stack).
+
 
 
 ## 🛠️ Tech Stack
