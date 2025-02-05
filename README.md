@@ -2,27 +2,18 @@
 
 
 <div align="center">
-  <!-- Header with gradient effect -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing;🎨 CSS+Student" alt="Typing Animation">
-</a>
+  <!-- Header with typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing;🎨 CSS+Student" 
+         alt="Typing Animation">
+  </a>
 
-
-
-  
-<div>
-  
-<img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
-     alt="Profile Picture" 
-  >
-</div>
-
-
-
-
-
-
-
+  <!-- Profile picture -->
+  <div>
+    <img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
+         alt="Profile Picture"
+         style="width: 200px; height: 200px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 15px rgba(138,43,226,0.5); margin-top: 10px;">
+  </div>
 </div>
 
 
