@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SadiaAfrinMim&theme=radical" alt="GitHub Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=SadiaAfrinMim&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 
