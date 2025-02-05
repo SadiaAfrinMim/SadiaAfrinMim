@@ -28,14 +28,15 @@
 ## 👩‍💻 About Me
 
 # 👋 Hi, I'm Sadia Afrin Mim  ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
+ A passionate [![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)  Enthusiast from [![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh) . 🚀
+I love building dynamic and user-friendly web applications, constantly learning new technologies, and contributing to open-source projects.
+Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
 <img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
-[![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)  
-[![Location](https://img.shields.io/badge/Location-Bangladesh-%234CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)  
-[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Frontend](https://img.shields.io/badge/Role-Frontend%20Developer-%2361DAFB?style=for-the-badge&logo=react)](https://reactjs.org)  
+[![Developer](https://img.shields.io/badge/Developer-Female-%23E91E63?style=for-the-badge&logo=github)](https://github.com/SadiaAfrinMim)   
+[![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
 
 
