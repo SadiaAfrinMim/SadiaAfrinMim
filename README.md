@@ -32,7 +32,7 @@
 - I enjoy building dynamic and user-friendly web applications, always learning new technologies, and contributing to open-source projects.
 - Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
 
-<img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> 
+<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> 
 [![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
 
@@ -118,6 +118,7 @@
 </p>
 
 ## 📌 Interests
+<img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <a href="https://ko-fi.com/sciencepal"> 
 - 🔭 Currently working on: React.js projects
 - 🌱 Learning: Advanced React patterns and Firebase
 - 👯 Looking to collaborate on: Web development projects
