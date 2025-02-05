@@ -10,7 +10,7 @@
   
 
   <!-- Profile picture overlapping the header using negative margin -->
-  <img src="https://i.ibb.co/qFgPLgjL/DALL-E-2025-02-05-01-06-29-A-professional-and-eye-catching-cover-photo-featuring-a-young-female-web.webp" 
+  <img src="https://i.ibb.co.com/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
        alt="Sadia Afrin Mim" 
        style="margin-top: -100px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 10px rgba(138,43,226,0.4);">
 </div>
