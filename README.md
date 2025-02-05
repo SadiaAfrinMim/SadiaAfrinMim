@@ -9,11 +9,11 @@
   </a>
 
   <!-- Profile picture -->
-  <div>
+
     <img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
          alt="Profile Picture"
         >
-  </div>
+ 
 </div>
 
 
