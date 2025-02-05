@@ -13,7 +13,7 @@
 
   <!-- Profile picture overlapping the header using negative margin -->
 <video>
-    <source src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/Neutral%20Simple%20Minimalist%20Real%20Estate%20Facebook%20Cover.mp4" type="video/mp4">
+    <source src="https://i.ibb.co.com/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" type="video/mp4">
    
 </video>
 
