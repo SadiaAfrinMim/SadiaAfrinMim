@@ -92,7 +92,7 @@
 
 <p align="center">
   <a href="https://github.com/SadiaAfrinMim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaAfrinMim&theme=radical" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaAfrinMim&theme=radical"/>
   </a>
 </p>
 
