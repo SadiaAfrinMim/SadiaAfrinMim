@@ -91,10 +91,9 @@
 </p>
 
 <p align="center">
-  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaAfrinMim&theme=radical"/>
-  
+  <img src="https://streak-stats.demolab.com/?user=SadiaAfrinMim&theme=radical" alt="GitHub Streak Stats"/>
 </p>
+
 
 ## 🤝 Connect With Me
 <p align="center">
