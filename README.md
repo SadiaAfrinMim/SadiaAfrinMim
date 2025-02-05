@@ -41,11 +41,11 @@ I enjoy building dynamic and user-friendly web applications, always learning new
 
 
 
-📌 Current Activities:
-🌱 Learning: Advanced Next.js and TypeScript.
-🏗 Building: A tourism website with interactive UI/UX.
-🔥 Exploring: Server-side rendering (SSR) and Static Site Generation (SSG) in Next.js.
-🤝 Collaborating: On full-stack projects with MongoDB, Express, React, and Node.js (MERN Stack).
+## 📌 Current Activities:
+- 🌱 Learning: Advanced Next.js and TypeScript.
+- 🏗 Building: A tourism website with interactive UI/UX.
+- 🔥 Exploring: Server-side rendering (SSR) and Static Site Generation (SSG) in Next.js.
+- 🤝 Collaborating: On full-stack projects with MongoDB, Express, React, and Node.js (MERN Stack).
 
 
 
