@@ -12,7 +12,7 @@
   <div>
     <img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
          alt="Profile Picture"
-         style="width: 200px; height: 200px; border-radius: 50%; border: 5px solid #8A2BE2; box-shadow: 0 5px 15px rgba(138,43,226,0.5); margin-top: 10px;">
+        >
   </div>
 </div>
 
