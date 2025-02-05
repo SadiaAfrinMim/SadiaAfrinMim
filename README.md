@@ -11,9 +11,7 @@
 
   
 
-<img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png" 
-    
-  >
+<img src="https://i.ibb.co/WjXtx1v/Neutral-Simple-Minimalist-Real-Estate-Facebook-Cover.png">
 
 
 
