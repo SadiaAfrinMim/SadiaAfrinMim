@@ -28,13 +28,11 @@
 ## 👩‍💻 About Me
 
 # 👋 Hi, I'm Sadia Afrin Mim  ![](https://komarev.com/ghpvc/?username=SadiaAfrinMim&label=Profile%20Visits&color=blue&style=for-the-badge)
-I’m a passionate Frontend Developer and React.js Enthusiast from Bangladesh. 🚀
-I enjoy building dynamic and user-friendly web applications, always learning new technologies, and contributing to open-source projects. Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
+- I’m a passionate Frontend Developer and React.js Enthusiast from Bangladesh. 🚀
+- I enjoy building dynamic and user-friendly web applications, always learning new technologies, and contributing to open-source projects.
+- Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
 
-<img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-
-
-  
+<img src="https://github.com/SadiaAfrinMim/SadiaAfrinMim/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> 
 [![Languages](https://img.shields.io/badge/Languages-JavaScript-%23F7DF1E?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   
 [![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-%2333B5E5?style=for-the-badge)](https://nextjs.org)
 
