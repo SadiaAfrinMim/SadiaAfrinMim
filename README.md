@@ -1,13 +1,13 @@
 
 
 
-<div align="center">
-  <!-- Unique Header with Gradient and Cosmic Theme -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3500&pause=1200&color=00FFCC&center=true&vCenter=true&width=650&lines=🌌 Cosmic+Code+Crafter;⚛️ React.js+Trailblazer;🌐 Web+Universe+Explorer;🔭 Always+Evolving+with+Knowledge" 
-         alt="Cosmic Typing Animation">
+div align="center">
+  <!-- Header with gradient effect -->
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing" 
+         alt="Typing Animation">
   </a>
-</div>
+  </div> create koro uniquely
   
 
   <!-- Profile picture overlapping the header using negative margin -->
