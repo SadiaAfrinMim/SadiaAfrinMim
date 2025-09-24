@@ -86,9 +86,26 @@
     <br>Tailwind
   </td>
 </tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+    <br>Redux
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+    <br>Prisma
+  </td>
+  <td align="center" width="96">
+    <!-- Placeholder for future addition -->
+    <br>
+  </td>
+</tr>
 </table>
 </div>
-
 ## 📈 GitHub Analytics
 <p align="center">
   <a href="https://github.com/SadiaAfrinMim">
